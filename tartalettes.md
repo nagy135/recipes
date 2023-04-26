@@ -3,12 +3,12 @@
 - 75g butter
 - 25g sugar
 - vanilla extract
-- 1 egg
+- 1 egg yolk
 - 130g flour
 
 ## Instructions
 - mix butter + sugar
-- mix with vanilla and egg
+- mix with vanilla and egg yolk
 - mix with flour
 - 30m in fridge
 
