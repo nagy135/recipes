@@ -15,3 +15,17 @@
 # Filling (white) - 5x filled tartalettes
 - 100g white chocolate
 - 33g double cream
+
+# Cream cheese
+- 225g cream cheese
+- 60g powder sugar
+- vanilla extract
+- 85g peanut butter (melted)
+- 60g whipped cream
+
+## Instructions
+- whisk cream cheese
+- add sugar + extract
+- melt peanut butter
+- whisk together
+- make whipped cream and fold it in
