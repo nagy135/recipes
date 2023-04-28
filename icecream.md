@@ -1,3 +1,4 @@
+![icecream](./images/icecream.jpeg)
 # White chocolate
 
 ## Ingredients

@@ -1,3 +1,4 @@
+![pizza](./images/pizza.jpeg)
 # Poolish
 - 100ml water
 - 2g dry yeast
