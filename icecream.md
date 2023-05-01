@@ -21,18 +21,18 @@
 # Coffee
 
 ## Ingredients
-- 470ml milk
-- 470ml heavy cream
-- 150g coffee beans
-- 120g sugar
-- 6 egg yolks
-- 4g salt
+- 235ml milk
+- 235ml heavy cream
+- 75g coffee beans
+- 50g sugar
+- 3 egg yolks
+- 2g salt
 
 ## Instructions
-- 470ml milk + 235ml cream + 120g sugar + 4g salt + 150g coffee
+- 235ml milk + 117.5ml cream + 50g sugar + 2g salt + 75g coffee
 - almost boil, let rest with lid for 45 minutes
-- prepare 235ml cream in ice bath
-- reheat mixture to almost boil and slowly add some to 6 yolks, then back inside pot
+- prepare 117.5ml cream in ice bath
+- reheat mixture to almost boil and slowly add some to 3 yolks, then back inside pot
 - stir until little bit thicc
 - sift out coffee inside cream in bath
 - Icea cream machine
