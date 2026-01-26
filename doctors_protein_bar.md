@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- Medjool date, roughly chopped - 250g
-- Peanut butter, crunchy - 125g
-- Protein powder plant based (unflavoured) - 100g
-- Almonds (ground) - 75g
-- Chia seeds, milled - 2 tbsp
-- Maple syrup - 175ml
-- Water - 150g
-- Dark chocolate (80%), roughly chopped
+- Medjool date, roughly chopped - 100g
+- Peanut butter, crunchy - 250g
+- Protein powder plant based (unflavoured) - 125g
+- Almonds (ground) - 100g
+- Chia seeds, milled - 75g
+- Maple syrup - 2 tbsp
+- Water - 175ml
+- Dark chocolate (80%), roughly chopped - 150g
