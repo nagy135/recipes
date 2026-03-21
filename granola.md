@@ -1,3 +1,5 @@
+![granola](./images/granola.jpeg)
+
 # Granola
 
 - 180g oats
