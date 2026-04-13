@@ -1,3 +1,5 @@
+![protein_bars](./images/protein_bars.jpeg)
+
 # Doctors Protein Bar
 
 ## Ingredients
