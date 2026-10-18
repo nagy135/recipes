@@ -2,6 +2,8 @@
 
 A small React + Vite cookbook that opens directly to the recipe filters and image gallery. Cards include ingredients, available instructions, calories, protein, carbs, and fat. Cards open at full size; **Description & instructions** opens an accessible text recipe with serving/batch nutrition. Search by recipe name or ingredient, or filter by category.
 
+The interface follows your system's light or dark appearance automatically, including changes while the page is open. Recipe card images keep their original colours.
+
 ## Run locally
 
 ```sh
