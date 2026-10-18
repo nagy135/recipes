@@ -1,4 +1,4 @@
-![protein_bars](./images/protein_bars.jpeg)
+![protein_bars](../public/photos/protein_bars.jpeg)
 
 # Doctors Protein Bar
 

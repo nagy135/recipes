@@ -1,0 +1,8 @@
+[
+  {
+    "id": "coffee-ice-cream",
+    "reason": "Corrected the generated serving-size label from one eighth to one of six portions.",
+    "prompt": "Use case: text-localization. Edit target: attached finished Coffee ice cream recipe card. Make ONE localized correction only. In the bottom nutrition panel heading, replace the serving-size text after ESTIMATED NUTRITION / with exactly: \"1 of 6 equal portions\". It incorrectly currently says 1 portion · ⅛ batch. The correct assumed yield is six equal portions, as already written below. Preserve every other pixel and all typography, food photography, ingredients, instructions, notes, borders, and layout. Preserve the nutrition values exactly: 216 kcal, PROTEIN 3.7 g, CARBS 11.7 g, FAT 17.6 g. Preserve all bottom assumption text including Assumed yield: 6 equal portions. No other changes. Keep portrait 1024×1536 dimensions.",
+    "generatorOutput": "exec-9b3f99b1-a21a-45a0-8098-4babd656e175.png"
+  }
+]

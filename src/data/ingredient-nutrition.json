@@ -1,0 +1,364 @@
+{
+  "flour": {
+    "name": "Wheat flour, white, all-purpose, enriched, unbleached",
+    "fdcId": 168936,
+    "source": "https://fdc.nal.usda.gov/food-details/168936/nutrients",
+    "per100g": {
+      "fat": 0.98,
+      "carbs": 76.31,
+      "calories": 364.0,
+      "protein": 10.33
+    }
+  },
+  "oats": {
+    "name": "Cereals, oats, regular and quick, not fortified, dry",
+    "fdcId": 173904,
+    "source": "https://fdc.nal.usda.gov/food-details/173904/nutrients",
+    "per100g": {
+      "fat": 6.52,
+      "carbs": 67.7,
+      "calories": 379.0,
+      "protein": 13.15
+    }
+  },
+  "darkChocolate": {
+    "name": "Chocolate, dark, 70-85% cacao solids",
+    "fdcId": 170273,
+    "source": "https://fdc.nal.usda.gov/food-details/170273/nutrients",
+    "per100g": {
+      "fat": 42.63,
+      "carbs": 45.9,
+      "calories": 598.0,
+      "protein": 7.79
+    }
+  },
+  "whiteChocolate": {
+    "name": "Candies, white chocolate",
+    "fdcId": 167571,
+    "source": "https://fdc.nal.usda.gov/food-details/167571/nutrients",
+    "per100g": {
+      "fat": 32.09,
+      "protein": 5.87,
+      "carbs": 59.24,
+      "calories": 539.0
+    }
+  },
+  "chocolateChips": {
+    "name": "Candies, semisweet chocolate",
+    "fdcId": 167976,
+    "source": "https://fdc.nal.usda.gov/food-details/167976/nutrients",
+    "per100g": {
+      "carbs": 63.9,
+      "calories": 480.0,
+      "protein": 4.2,
+      "fat": 30.0
+    }
+  },
+  "peanutButter": {
+    "name": "Peanut butter, chunk style, without salt",
+    "fdcId": 172469,
+    "source": "https://fdc.nal.usda.gov/food-details/172469/nutrients",
+    "per100g": {
+      "protein": 24.06,
+      "fat": 49.94,
+      "carbs": 21.57,
+      "calories": 589.0
+    }
+  },
+  "almonds": {
+    "name": "Nuts, almonds",
+    "fdcId": 170567,
+    "source": "https://fdc.nal.usda.gov/food-details/170567/nutrients",
+    "per100g": {
+      "protein": 21.15,
+      "fat": 49.93,
+      "carbs": 21.55,
+      "calories": 579.0
+    }
+  },
+  "chia": {
+    "name": "Seeds, chia seeds, dried",
+    "fdcId": 170554,
+    "source": "https://fdc.nal.usda.gov/food-details/170554/nutrients",
+    "per100g": {
+      "protein": 16.54,
+      "fat": 30.74,
+      "carbs": 42.12,
+      "calories": 486.0
+    }
+  },
+  "flax": {
+    "name": "Seeds, flaxseed",
+    "fdcId": 169414,
+    "source": "https://fdc.nal.usda.gov/food-details/169414/nutrients",
+    "per100g": {
+      "fat": 42.16,
+      "protein": 18.29,
+      "carbs": 28.88,
+      "calories": 534.0
+    }
+  },
+  "sunflower": {
+    "name": "Seeds, sunflower seed kernels, dried",
+    "fdcId": 170562,
+    "source": "https://fdc.nal.usda.gov/food-details/170562/nutrients",
+    "per100g": {
+      "protein": 20.78,
+      "fat": 51.46,
+      "carbs": 20.0,
+      "calories": 584.0
+    }
+  },
+  "soyProtein": {
+    "name": "Soy protein isolate",
+    "fdcId": 174276,
+    "source": "https://fdc.nal.usda.gov/food-details/174276/nutrients",
+    "per100g": {
+      "carbs": 0.0,
+      "calories": 335.0,
+      "protein": 88.32,
+      "fat": 3.39
+    }
+  },
+  "butter": {
+    "name": "Butter, without salt",
+    "fdcId": 173430,
+    "source": "https://fdc.nal.usda.gov/food-details/173430/nutrients",
+    "per100g": {
+      "calories": 717.0,
+      "fat": 81.11,
+      "carbs": 0.06,
+      "protein": 0.85
+    }
+  },
+  "egg": {
+    "name": "Egg, whole, raw, fresh",
+    "fdcId": 171287,
+    "source": "https://fdc.nal.usda.gov/food-details/171287/nutrients",
+    "per100g": {
+      "calories": 143.0,
+      "protein": 12.56,
+      "fat": 9.51,
+      "carbs": 0.72
+    }
+  },
+  "yolk": {
+    "name": "Egg, yolk, raw, fresh",
+    "fdcId": 172184,
+    "source": "https://fdc.nal.usda.gov/food-details/172184/nutrients",
+    "per100g": {
+      "fat": 26.54,
+      "protein": 15.86,
+      "carbs": 3.59,
+      "calories": 322.0
+    }
+  },
+  "milk": {
+    "name": "Milk, whole, 3.25% milkfat, with added vitamin D",
+    "fdcId": 171265,
+    "source": "https://fdc.nal.usda.gov/food-details/171265/nutrients",
+    "per100g": {
+      "fat": 3.25,
+      "carbs": 4.8,
+      "calories": 61.0,
+      "protein": 3.15
+    }
+  },
+  "cream": {
+    "name": "Cream, fluid, heavy whipping",
+    "fdcId": 170859,
+    "source": "https://fdc.nal.usda.gov/food-details/170859/nutrients",
+    "per100g": {
+      "fat": 36.08,
+      "calories": 340.0,
+      "protein": 2.84,
+      "carbs": 2.84
+    }
+  },
+  "creamCheese": {
+    "name": "Cheese, cream",
+    "fdcId": 173418,
+    "source": "https://fdc.nal.usda.gov/food-details/173418/nutrients",
+    "per100g": {
+      "protein": 6.15,
+      "fat": 34.44,
+      "carbs": 5.52,
+      "calories": 350.0
+    }
+  },
+  "brownSugar": {
+    "name": "Sugars, brown",
+    "fdcId": 168833,
+    "source": "https://fdc.nal.usda.gov/food-details/168833/nutrients",
+    "per100g": {
+      "fat": 0.0,
+      "carbs": 98.09,
+      "calories": 380.0,
+      "protein": 0.12
+    }
+  },
+  "sugar": {
+    "name": "Sugars, granulated",
+    "fdcId": 169655,
+    "source": "https://fdc.nal.usda.gov/food-details/169655/nutrients",
+    "per100g": {
+      "protein": 0.0,
+      "fat": 0.0,
+      "calories": 387.0,
+      "carbs": 99.98
+    }
+  },
+  "icingSugar": {
+    "name": "Sugars, powdered",
+    "fdcId": 169656,
+    "source": "https://fdc.nal.usda.gov/food-details/169656/nutrients",
+    "per100g": {
+      "fat": 0.0,
+      "calories": 389.0,
+      "protein": 0.0,
+      "carbs": 99.77
+    }
+  },
+  "coconutOil": {
+    "name": "Oil, coconut",
+    "fdcId": 171412,
+    "source": "https://fdc.nal.usda.gov/food-details/171412/nutrients",
+    "per100g": {
+      "protein": 0.0,
+      "fat": 99.06,
+      "calories": 892.0,
+      "carbs": 0.0
+    }
+  },
+  "oliveOil": {
+    "name": "Oil, olive, salad or cooking",
+    "fdcId": 171413,
+    "source": "https://fdc.nal.usda.gov/food-details/171413/nutrients",
+    "per100g": {
+      "fat": 100.0,
+      "carbs": 0.0,
+      "calories": 884.0,
+      "protein": 0.0
+    }
+  },
+  "mapleSyrup": {
+    "name": "Syrups, maple",
+    "fdcId": 169661,
+    "source": "https://fdc.nal.usda.gov/food-details/169661/nutrients",
+    "per100g": {
+      "protein": 0.04,
+      "fat": 0.06,
+      "carbs": 67.04,
+      "calories": 260.0
+    }
+  },
+  "honey": {
+    "name": "Honey",
+    "fdcId": 169640,
+    "source": "https://fdc.nal.usda.gov/food-details/169640/nutrients",
+    "per100g": {
+      "protein": 0.3,
+      "fat": 0.0,
+      "carbs": 82.4,
+      "calories": 304.0
+    }
+  },
+  "dates": {
+    "name": "Dates, medjool",
+    "fdcId": 168191,
+    "source": "https://fdc.nal.usda.gov/food-details/168191/nutrients",
+    "per100g": {
+      "fat": 0.15,
+      "protein": 1.81,
+      "carbs": 74.97,
+      "calories": 277.0
+    }
+  },
+  "cocoa": {
+    "name": "Cocoa, dry powder, unsweetened",
+    "fdcId": 169593,
+    "source": "https://fdc.nal.usda.gov/food-details/169593/nutrients",
+    "per100g": {
+      "carbs": 57.9,
+      "calories": 228.0,
+      "protein": 19.6,
+      "fat": 13.7
+    }
+  },
+  "yeastFresh": {
+    "name": "Leavening agents, yeast, baker's, compressed",
+    "fdcId": 175042,
+    "source": "https://fdc.nal.usda.gov/food-details/175042/nutrients",
+    "per100g": {
+      "fat": 1.9,
+      "carbs": 18.1,
+      "protein": 8.4,
+      "calories": 105.0
+    }
+  },
+  "yeastDry": {
+    "name": "Leavening agents, yeast, baker's, active dry",
+    "fdcId": 175043,
+    "source": "https://fdc.nal.usda.gov/food-details/175043/nutrients",
+    "per100g": {
+      "fat": 7.61,
+      "carbs": 41.22,
+      "calories": 325.0,
+      "protein": 40.44
+    }
+  },
+  "vanilla": {
+    "name": "Vanilla extract",
+    "fdcId": 173471,
+    "source": "https://fdc.nal.usda.gov/food-details/173471/nutrients",
+    "per100g": {
+      "fat": 0.06,
+      "carbs": 12.65,
+      "calories": 288.0,
+      "protein": 0.06
+    }
+  },
+  "cinnamon": {
+    "name": "Spices, cinnamon, ground",
+    "fdcId": 171320,
+    "source": "https://fdc.nal.usda.gov/food-details/171320/nutrients",
+    "per100g": {
+      "protein": 3.99,
+      "fat": 1.24,
+      "carbs": 80.59,
+      "calories": 247.0
+    }
+  },
+  "garlic": {
+    "name": "Garlic, raw",
+    "fdcId": 169230,
+    "source": "https://fdc.nal.usda.gov/food-details/169230/nutrients",
+    "per100g": {
+      "carbs": 33.06,
+      "calories": 149.0,
+      "protein": 6.36,
+      "fat": 0.5
+    }
+  },
+  "bakingPowder": {
+    "name": "Leavening agents, baking powder, double-acting, straight phosphate",
+    "fdcId": 172804,
+    "source": "https://fdc.nal.usda.gov/food-details/172804/nutrients",
+    "per100g": {
+      "fat": 0.0,
+      "carbs": 24.1,
+      "calories": 51.0,
+      "protein": 0.1
+    }
+  },
+  "psyllium": {
+    "name": "NOW Whole Psyllium Husks",
+    "source": "https://www.nowfoods.com/products/supplements/psyllium-husks-whole",
+    "per100g": {
+      "calories": 350,
+      "protein": 0,
+      "carbs": 80,
+      "fat": 0
+    }
+  }
+}

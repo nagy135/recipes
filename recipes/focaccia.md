@@ -1,4 +1,4 @@
-![focaccia](./images/foccacia.jpeg)
+![focaccia](../public/photos/foccacia.jpeg)
 # Focaccia
 
 ## Ingredients

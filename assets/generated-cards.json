@@ -1,0 +1,143 @@
+{
+  "focaccia": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/focaccia.jpg",
+    "thumbnail": "public/recipe-cards/focaccia-small.jpg",
+    "generatorOutput": "exec-b6fb9f78-6083-4e96-a899-e497c6f44126.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "60e72819db021393dbb6a5c01e742315534729ddb1d72d01b264e3f4165dbbba",
+    "referencePhoto": "public/photos/foccacia.jpeg",
+    "contentHash": "94f246f5a3b28e57e758285a2aafa6454a95bf2a02b5356915ebd377c6c2a944"
+  },
+  "crinkles": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/crinkles.jpg",
+    "thumbnail": "public/recipe-cards/crinkles-small.jpg",
+    "generatorOutput": "exec-e34a85e0-77ff-4e4e-b9ae-4d3b61b31c9b.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "df0e71e59661ca801f52ea8fed9fddb776356b86944f3fd1392e20d28c51004b",
+    "referencePhoto": "public/photos/crinkles.jpeg",
+    "contentHash": "274ad1c7de968914efaab767dd41b6828c079febdcf2acdbef40fbf80f71343c"
+  },
+  "tartalettes": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/tartalettes.jpg",
+    "thumbnail": "public/recipe-cards/tartalettes-small.jpg",
+    "generatorOutput": "exec-a7a8a9b9-17cf-4517-a649-5406abb8581b.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "c806666f06f3dab763e6267115a412984b8dd4758dc68a8e1e5fcb191164e6d6",
+    "referencePhoto": "public/photos/tartalettes.jpeg",
+    "contentHash": "b67c40658f97fbe439e26ac713bb058ee4418fbab979ba9500e611422bfde72e"
+  },
+  "granola": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/granola.jpg",
+    "thumbnail": "public/recipe-cards/granola-small.jpg",
+    "generatorOutput": "exec-15e2ed97-7dec-4965-85a5-ca352bc2315f.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "3fa876f3e9b44a568e206d08cd2785752b4087f84811354cca9d38bc24c7e300",
+    "referencePhoto": "public/photos/granola.jpeg",
+    "contentHash": "406258e3c42ef9fc7ee9e6197b3a391d548664bf5c4b82009d4c5b2dee66daab"
+  },
+  "pizza": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/pizza.jpg",
+    "thumbnail": "public/recipe-cards/pizza-small.jpg",
+    "generatorOutput": "exec-d06c00ef-c0c6-43fe-9050-7fbfe7bb642b.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "d0add6634103a78aa2ce74b17bd2fa696dbc2a4756beae08467bcb5a3c56dca1",
+    "referencePhoto": "public/photos/pizza.jpeg",
+    "contentHash": "040de7f9d795ab6bf1b76e4897f434cde4ee55838823dd4086c7b777e5cdbd92"
+  },
+  "protein-bars": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/protein-bars.jpg",
+    "thumbnail": "public/recipe-cards/protein-bars-small.jpg",
+    "generatorOutput": "exec-6fbb5241-462c-4268-9ffd-0185e50c7bea.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "5495b7e218b0c52da29ecf10caa11921eca0ae03b932539a8e5c8e6d4bc67537",
+    "referencePhoto": "public/photos/protein_bars.jpeg",
+    "contentHash": "b7750c0628495bba77549da083aabd710e2aee3b3e3fd2168819761e321d5e23"
+  },
+  "brownie-cookies": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/brownie-cookies.jpg",
+    "thumbnail": "public/recipe-cards/brownie-cookies-small.jpg",
+    "generatorOutput": "exec-5a755ba3-984e-4d92-a960-ea801f60851e.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "c5c09049335b2ab4a6d07add3cd5f4ff32bbd26a2006ab1a89c287c972bac03a",
+    "referencePhoto": null,
+    "contentHash": "bd60600821a8da4071ec6b3f480c3022f04f9b8dd44769884a173a99c0a41a2a"
+  },
+  "oat-cookies": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/oat-cookies.jpg",
+    "thumbnail": "public/recipe-cards/oat-cookies-small.jpg",
+    "generatorOutput": "exec-0cc01b04-9cc0-4928-82eb-85d934588c63.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "98ebac028e2aa96de4380edf8551b2c09a4596511c9f65dfec4e321e7e0ec3de",
+    "referencePhoto": null,
+    "contentHash": "9c126a3af2c091adab88fffb7f6c1ccd4e8f16ea35ed74c46e330d798fd74321"
+  },
+  "doctors-bread": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/doctors-bread.jpg",
+    "thumbnail": "public/recipe-cards/doctors-bread-small.jpg",
+    "generatorOutput": "exec-771085b4-9eff-43b6-896e-4c6e6e2a8d21.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "1fb306a692e9aac63335ab5a21b12e6a91c4fd599ed1b2617ca416be6850b72e",
+    "referencePhoto": null,
+    "contentHash": "410e87d7e94b7ec117a217f500c3c65ef3446cbf9b066a400b9849d8bfbc690c"
+  },
+  "steamed-buns": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/steamed-buns.jpg",
+    "thumbnail": "public/recipe-cards/steamed-buns-small.jpg",
+    "generatorOutput": "exec-ffec574b-2c42-4ab2-8849-12518c6e1455.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "6bca1e582b9abdd65fa729a41ddb11c20df993a5e6de884b68aa133950556251",
+    "referencePhoto": null,
+    "contentHash": "bef51b47a6d2f4f041399bdcfe768182d4a3a56f2b5c3ac97aff00939d5336c4"
+  },
+  "white-chocolate-ice-cream": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/white-chocolate-ice-cream.jpg",
+    "thumbnail": "public/recipe-cards/white-chocolate-ice-cream-small.jpg",
+    "generatorOutput": "exec-fc003329-6b41-419a-a8e3-8ce1168dcace.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "50b683cc9070804bdd9c6b011acfef813273c8f515a498731b9ec4ffd137bbfd",
+    "referencePhoto": "public/photos/icecream.jpeg",
+    "contentHash": "0eaeeba7b22754395c8e1f5d7f15a1944007d5123fef3115c121e89bf75770ac"
+  },
+  "coffee-ice-cream": {
+    "generatedWith": "built-in image_gen",
+    "generatedOn": "2026-10-18",
+    "card": "public/recipe-cards/coffee-ice-cream.jpg",
+    "thumbnail": "public/recipe-cards/coffee-ice-cream-small.jpg",
+    "generatorOutput": "exec-9b3f99b1-a21a-45a0-8098-4babd656e175.png",
+    "promptFile": "assets/recipe-card-prompts.json",
+    "promptHash": "50ca98b22e7cc3b6a1c12ba88d2be06b79ab36bd4764b4f14bdda3e154000288",
+    "referencePhoto": "public/photos/icecream.jpeg",
+    "contentHash": "66cae58c781a2448f33d040798354b6eb305541f487bd800e2f126dee36231b6",
+    "originalGeneratorOutput": "exec-15ac1fba-3e45-4dbb-8804-70d176b0f373.png",
+    "correctionPromptFile": "assets/card-corrections.json"
+  },
+  "kaiserschmarrn": {
+    "providedBy": "user",
+    "card": "public/recipe-cards/kaiserschmarrn.jpg",
+    "thumbnail": "public/recipe-cards/kaiserschmarrn-small.jpg",
+    "providedCard": "public/photos/kaiserschmarrn-source.png",
+    "contentHash": "ae57023dca36538f101ba56f101d143cec7d05ceb98fce0a75e788d54bf735dc"
+  }
+}

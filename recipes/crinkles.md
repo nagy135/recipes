@@ -1,4 +1,4 @@
-![crinkles](./images/crinkles.jpeg)
+![crinkles](../public/photos/crinkles.jpeg)
 
 # Crinkles
 

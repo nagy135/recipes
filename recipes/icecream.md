@@ -1,4 +1,4 @@
-![icecream](./images/icecream.jpeg)
+![icecream](../public/photos/icecream.jpeg)
 # White chocolate
 
 ## Ingredients

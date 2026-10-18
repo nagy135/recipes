@@ -1,0 +1,162 @@
+[
+  {
+    "id": "focaccia", "title": "Focaccia", "category": "Bread & dough", "source": "focaccia.md", "photo": "foccacia.jpeg", "time": "2 h 25 min + prep", "accent": "sage",
+    "description": "A soft, airy focaccia with a golden crust, olive oil, and a scattering of herbs.",
+    "ingredients": [{"title": "Dough", "items": ["320 ml water", "3 g yeast", "5 g honey", "10 g salt", "400 g flour"]}, {"title": "To finish", "items": ["Rosemary, oregano, salt, garlic, and olive oil (amounts not specified)"]}],
+    "method": [{"title": "Instructions", "steps": ["Mix half the water with the yeast and honey. Add the flour and mix briefly.", "Add the salt and remaining water. Cover and rest for 30 minutes.", "Fold the edges into the centre all the way around. Cover and rest for 60 minutes.", "Oil your hands and transfer the dough to an oiled baking pan. Cover and rest for 40 minutes.", "Add rosemary, oregano, salt, garlic, and olive oil. Bake at 230°C for 15–20 minutes."]}],
+    "notes": [], "servings": 8, "servingLabel": "1 piece · ⅛ batch", "assumptions": ["Assumed yield: 8 equal pieces.", "Includes an assumed 30 g olive oil for the pan and topping and 5 g garlic. Herbs are excluded. Yeast is treated as active dry."],
+    "nutritionInputs": [["flour",400],["yeastDry",3],["honey",5],["oliveOil",30],["garlic",5]]
+  },
+  {
+    "id": "crinkles", "title": "Chocolate crinkles", "category": "Sweet treats", "source": "crinkles.md", "photo": "crinkles.jpeg", "time": "20 min bake + chilling", "accent": "cocoa",
+    "description": "Rich chocolate cookies rolled in sugar for their snowy, crackled tops.",
+    "ingredients": [{"title": "Ingredients", "items": ["225 g dark chocolate", "60 g butter", "50 g brown sugar", "2 eggs", "225 g flour", "Baking powder (amount not specified)", "Vanilla extract (amount not specified)", "Granulated and icing sugar, for coating (amounts not specified)"]}],
+    "method": [{"title": "Instructions", "steps": ["Melt the chocolate and butter together over a water bath.", "Whisk the eggs with the brown sugar. Let the chocolate mixture cool to room temperature, then add it.", "Sift in the flour. Add the vanilla extract and baking powder, then mix.", "Chill in the fridge for 3 hours or in the freezer for 30 minutes.", "Use an ice cream scoop and your hands to form balls. Roll each ball in granulated sugar, then icing sugar.", "Bake at 170°C for 20 minutes."]}],
+    "notes": [], "servings": 20, "servingLabel": "1 cookie · ¹⁄₂₀ batch", "assumptions": ["Assumed yield: 20 cookies; 2 eggs = 100 g edible weight.", "Uses 70–85% dark chocolate, 30 g granulated sugar and 30 g icing sugar retained as coating, 4 g baking powder, and 4 g vanilla extract."],
+    "nutritionInputs": [["darkChocolate",225],["butter",60],["brownSugar",50],["egg",100],["flour",225],["sugar",30],["icingSugar",30],["bakingPowder",4],["vanilla",4]]
+  },
+  {
+    "id": "tartalettes", "title": "Peanut butter tartlets", "category": "Sweet treats", "source": "tartalettes.md", "photo": "tartalettes.jpeg", "time": "30 min chill + prep", "accent": "sand",
+    "description": "Little buttery tart shells with white chocolate filling and a peanut butter cream-cheese topping.",
+    "ingredients": [{"title": "Pastry", "items": ["75 g butter", "25 g sugar", "Vanilla extract (amount not specified)", "1 egg yolk", "130 g flour"]}, {"title": "White chocolate filling · 5 tartlets", "items": ["100 g white chocolate", "33 g double cream"]}, {"title": "Cream-cheese topping", "items": ["225 g cream cheese", "60 g icing sugar", "Vanilla extract (amount not specified)", "85 g peanut butter, melted", "60 g whipped cream"]}],
+    "method": [{"title": "Pastry", "steps": ["Mix the butter and sugar. Mix in the vanilla and egg yolk, then the flour.", "Chill for 30 minutes."]}, {"title": "Cream-cheese topping", "steps": ["Whisk the cream cheese. Add the icing sugar and vanilla extract.", "Melt the peanut butter, then whisk it into the cream-cheese mixture.", "Whip the cream separately, then fold it into the mixture."]}],
+    "notes": ["The original notes do not include a pastry baking temperature or time, the white chocolate filling method, or final assembly instructions."],
+    "servings": 5, "servingLabel": "1 tartlet · ⅕ batch", "assumptions": ["Assumes 5 equal tartlets using all the pastry, white chocolate filling, and cream-cheese topping. Only the filling yield is given in the original notes.", "Uses full-fat cream cheese, unsweetened whipped heavy cream, heavy whipping cream as a proxy for double cream, 17 g egg yolk, and 8 g vanilla extract total."],
+    "nutritionInputs": [["butter",75],["sugar",25],["vanilla",8],["yolk",17],["flour",130],["whiteChocolate",100],["cream",93],["creamCheese",225],["icingSugar",60],["peanutButter",85]]
+  },
+  {
+    "id": "granola", "title": "Homemade granola", "category": "Breakfast & snacks", "source": "granola.md", "photo": "granola.jpeg", "time": "15–20 min bake", "accent": "ochre",
+    "description": "An oat, nut, and seed granola with coconut oil, syrup, and cinnamon.",
+    "ingredients": [{"title": "Ingredients", "items": ["180 g oats", "40 g chia seeds", "40 g flax seeds", "60 g coconut oil", "80 g syrup (honey, sugar syrup, or maple syrup)", "100 g nuts", "100 g seeds", "5 g cinnamon"]}],
+    "method": [{"title": "Instructions", "steps": ["Mix all the dry ingredients.", "Melt the coconut oil with your chosen syrup.", "Combine the wet and dry ingredients, then spread on a baking sheet.", "Bake at 160°C for 15–20 minutes."]}],
+    "notes": [], "servings": 12, "servingLabel": "1 portion · ¹⁄₁₂ batch", "assumptions": ["Assumed yield: 12 equal portions (about 50 g each before baking).", "Uses maple syrup, almonds for the unspecified nuts, and sunflower kernels for the unspecified seeds."],
+    "nutritionInputs": [["oats",180],["chia",40],["flax",40],["coconutOil",60],["mapleSyrup",80],["almonds",100],["sunflower",100],["cinnamon",5]]
+  },
+  {
+    "id": "pizza", "title": "Poolish pizza dough", "category": "Bread & dough", "source": "pizza.md", "photo": "pizza.jpeg", "time": "18–28 h resting + prep", "accent": "rust",
+    "description": "A slow-fermented pizza dough, starting with an overnight poolish.",
+    "ingredients": [{"title": "Poolish", "items": ["100 ml water", "2 g dry yeast", "1–2 g honey", "100 g flour"]}, {"title": "Final dough", "items": ["All of the poolish", "10 ml water", "5 g salt", "60 g flour", "Oil for shaping (amount not specified)"]}],
+    "method": [{"title": "Instructions", "steps": ["Combine the poolish ingredients. Leave at room temperature for 1 hour, then refrigerate for 16–24 hours.", "For the final dough, combine the water and salt, add the poolish, then add the flour.", "Rest for 15 minutes.", "Oil your hands and use a spatula to shape the dough into a ball.", "Rest for 1–2 hours."]}],
+    "notes": ["The original recipe stops at the dough stage. Shaping, toppings, oven temperature, and baking time are not specified. The photo shows a finished pizza."],
+    "servings": 1, "servingLabel": "1 dough batch · no toppings", "assumptions": ["Nutrition covers the full dough batch only. Pizza toppings are excluded.", "Uses 1.5 g honey and an assumed 5 g olive oil retained during shaping."],
+    "nutritionInputs": [["flour",160],["yeastDry",2],["honey",1.5],["oliveOil",5]]
+  },
+  {
+    "id": "protein-bars", "title": "Doctor’s protein bars", "category": "Breakfast & snacks", "source": "doctors_protein_bar.md", "photo": "protein_bars.jpeg", "time": "30 min chill + prep & set", "accent": "cocoa",
+    "description": "A peanut butter and protein base, a soft date layer, and a dark chocolate coating.",
+    "ingredients": [{"title": "Ingredients · makes 12", "items": ["100 g Medjool dates, roughly chopped", "250 g crunchy peanut butter", "125 g unflavoured plant-based protein powder", "100 g ground almonds", "75 g milled chia seeds", "2 tbsp maple syrup", "175 ml water, plus extra boiling water to soak dates", "150 g dark chocolate (80%), roughly chopped", "Optional toppings of your choice"]}],
+    "method": [{"title": "Instructions", "steps": ["Line a 20 × 20 cm baking tin with parchment paper.", "Cover the dates with just enough boiling water. Soak for 10 minutes, then mash into a spreadable paste.", "Blend the peanut butter, protein powder, ground almonds, chia, maple syrup, and 175 ml water in a food processor until smooth. Press into the tin, then spread the dates evenly on top.", "Refrigerate for 30 minutes until firm. Cut into 12 bars.", "Melt the chocolate in a bowl over a pan of simmering water, keeping the bowl clear of the pan base.", "Set a wire rack over a tray. Dip the bars in chocolate, then leave on the rack so excess drips off. Add optional toppings while wet. Set for 5–10 minutes and store in the fridge."]}],
+    "notes": [], "servings": 12, "servingLabel": "1 bar · ¹⁄₁₂ batch", "assumptions": ["Yield of 12 bars is from the original recipe. All 150 g coating chocolate is counted; drips and optional toppings are not adjusted.", "Uses USDA soy protein isolate as a proxy for plant protein powder, 40 g maple syrup for 2 tbsp, and 70–85% dark chocolate. Your powder label may differ substantially."],
+    "nutritionInputs": [["dates",100],["peanutButter",250],["soyProtein",125],["almonds",100],["chia",75],["mapleSyrup",40],["darkChocolate",150]]
+  },
+  {
+    "id": "brownie-cookies", "title": "Brownie cookies", "category": "Sweet treats", "source": "brownie_cookies.md", "photo": null, "time": "10–12 min bake", "accent": "cocoa",
+    "description": "A chocolate-rich cookie with a soft brownie centre and extra chocolate chips.",
+    "ingredients": [{"title": "Ingredients", "items": ["200 g chocolate", "120 g butter", "2 eggs", "120 g sugar", "2 tbsp brown sugar", "Vanilla extract (amount not specified)", "20 g cocoa powder", "120 g flour", "¼ tsp baking powder", "Chocolate chips (amount not specified)"]}],
+    "method": [{"title": "Instructions", "steps": ["Melt the butter and chocolate in a pot.", "Whisk the eggs with both sugars in a bowl.", "Add the melted chocolate mixture.", "Add the remaining ingredients and mix.", "Bake at 175°C for 10–12 minutes."]}],
+    "notes": [], "servings": 16, "servingLabel": "1 cookie · ¹⁄₁₆ batch", "assumptions": ["Assumed yield: 16 cookies; 2 eggs = 100 g edible weight.", "Uses 70–85% dark chocolate, an assumed 100 g semisweet chocolate chips, 25 g brown sugar for 2 tbsp, 4 g vanilla, and 1 g baking powder."],
+    "nutritionInputs": [["darkChocolate",200],["butter",120],["egg",100],["sugar",120],["brownSugar",25],["vanilla",4],["cocoa",20],["flour",120],["bakingPowder",1],["chocolateChips",100]]
+  },
+  {
+    "id": "oat-cookies", "title": "Oat & chocolate cookies", "category": "Sweet treats", "source": "cookies.md", "photo": null, "time": "20 min bake", "accent": "ochre",
+    "description": "A simple mix-everything cookie with oats, nuts, and chocolate chunks.",
+    "ingredients": [{"title": "Ingredients", "items": ["200 g oats", "200 g flour", "4 tbsp brown sugar", "1 coffee spoon baking powder", "2 eggs", "4 tbsp oil or butter", "Nuts (amount not specified)", "Chocolate chunks (amount not specified)"]}],
+    "method": [{"title": "Instructions", "steps": ["Mix all the ingredients together.", "Bake at 210°C for 20 minutes."]}],
+    "notes": [], "servings": 20, "servingLabel": "1 cookie · ¹⁄₂₀ batch", "assumptions": ["Assumed yield: 20 cookies; 2 eggs = 100 g edible weight.", "Uses 50 g brown sugar for 4 tbsp, 54 g olive oil for 4 tbsp, 4 g baking powder for the coffee spoon, an assumed 50 g almonds, and 100 g semisweet chocolate chunks."],
+    "nutritionInputs": [["oats",200],["flour",200],["brownSugar",50],["bakingPowder",4],["egg",100],["oliveOil",54],["almonds",50],["chocolateChips",100]]
+  },
+  {
+    "id": "doctors-bread", "title": "Doctor’s bread", "category": "Bread & dough", "source": "doctors_bread.md", "photo": null, "time": "75 min bake + cooling", "accent": "sage",
+    "description": "A hearty loaf made with oats, mixed nuts, seeds, chia, and psyllium husk.",
+    "ingredients": [{"title": "Ingredients", "items": ["20 g chia seeds", "35 g psyllium husk", "150 g rolled oats", "150 g mixed nuts, chopped", "150 g mixed seeds", "1½ tsp fine sea salt", "400 ml water", "3 tbsp extra virgin olive oil"]}],
+    "method": [{"title": "Instructions", "steps": ["Line or grease a 2 lb loaf tin. Preheat the oven to 190°C (170°C fan).", "Mix the chia, psyllium, oats, nuts, seeds, and salt.", "Add the water and olive oil and mix well.", "Transfer to the tin. Optionally leave to soak for 30 minutes to 8 hours.", "Bake for 60 minutes, then remove from the tin and bake for 15 minutes more.", "Cool completely before slicing."]}],
+    "notes": [], "servings": 16, "servingLabel": "1 slice · ¹⁄₁₆ loaf", "assumptions": ["Assumed yield: 16 equal slices.", "Uses almonds for mixed nuts, sunflower kernels for mixed seeds, and 40.5 g olive oil for 3 tbsp. Psyllium uses a NOW Foods husk label; its carbohydrate includes fibre."],
+    "nutritionInputs": [["chia",20],["psyllium",35],["oats",150],["almonds",150],["sunflower",150],["oliveOil",40.5]]
+  },
+  {
+    "id": "steamed-buns", "title": "Sweet steamed buns", "category": "Bread & dough", "source": "steamed_buns.md", "photo": null, "time": "20 min steam + proofing", "accent": "sand",
+    "description": "Soft, fluffy yeast buns, gently steamed and ready for your favourite sweet filling.",
+    "ingredients": [{"title": "Ingredients", "items": ["375 g flour", "22 g fresh yeast", "2 tbsp sugar", "1 tbsp vanilla sugar", "A pinch of salt", "100 ml oil", "200 ml milk", "Filling of your choice (type and amount not specified)", "Extra oil for the steamer and buns (amount not specified)"]}],
+    "method": [{"title": "Instructions", "steps": ["Add the yeast to the milk with the sugar. Leave for 10 minutes.", "Put the flour and vanilla sugar in another bowl. Add the yeast mixture and mix into a dough. The original ingredient list also includes salt and oil, without specifying when to add them.", "Cover and prove for 1–2 hours.", "Flatten to 1–2 cm thick and cut into squares. Portion into 80–100 g pieces.", "Add filling to each piece and pinch closed. Prove for another 5–10 minutes.", "Oil the steamer rack and the buns. Steam over low heat for 20 minutes."]}],
+    "notes": ["The original method does not say when to add the listed oil and salt. Filling type and amount are also unspecified."],
+    "servings": 10, "servingLabel": "1 bun · ¹⁄₁₀ dough batch", "assumptions": ["Assumes the dough is divided into 10 equal buns. Nutrition is for dough only; filling and extra steamer oil are excluded.", "Uses whole milk (200 ml ≈ 206 g), olive oil (100 ml ≈ 91 g), 25 g sugar for 2 tbsp, and 12.5 g sugar as a proxy for 1 tbsp vanilla sugar."],
+    "nutritionInputs": [["flour",375],["yeastFresh",22],["sugar",37.5],["oliveOil",91],["milk",206]]
+  },
+  {
+    "id": "white-chocolate-ice-cream", "title": "White chocolate ice cream", "category": "Ice cream", "source": "icecream.md", "photo": "icecream.jpeg", "time": "Chill & churn", "accent": "sand",
+    "description": "A vanilla custard ice cream with white chocolate and softly whipped cream.",
+    "ingredients": [{"title": "Ingredients", "items": ["100 ml milk", "100 ml + 200 ml heavy cream", "3 egg yolks", "100 g white chocolate", "50 g sugar", "½ vanilla pod"]}],
+    "method": [{"title": "Instructions", "steps": ["Bring the vanilla, milk, and 100 ml cream to the boil. Chop the white chocolate separately.", "Mix the sugar and egg yolks. Slowly pour in the hot milk and cream while stirring.", "Return to the stove and heat the custard to 84°C.", "Pour over the chocolate and let it melt. Refrigerate the mixture.", "Whisk the remaining 200 ml cream, then fold it into the chilled mixture.", "Churn in an ice cream machine."]}],
+    "notes": ["Chilling and churning times are not specified in the original notes; follow your machine’s instructions."],
+    "servings": 6, "servingLabel": "1 portion · ⅙ batch", "assumptions": ["Assumed yield: 6 equal portions.", "Uses whole milk (100 ml ≈ 103 g), heavy whipping cream (300 ml ≈ 298 g), and 3 yolks = 51 g. Vanilla pod contribution is excluded."],
+    "nutritionInputs": [["milk",103],["cream",298],["yolk",51],["whiteChocolate",100],["sugar",50]]
+  },
+  {
+    "id": "coffee-ice-cream", "title": "Coffee ice cream", "category": "Ice cream", "source": "icecream.md", "photo": "icecream.jpeg", "time": "45 min steep + chill & churn", "accent": "cocoa",
+    "description": "A coffee-bean infusion churned into a rich, smooth custard ice cream.",
+    "ingredients": [{"title": "Ingredients", "items": ["235 ml milk", "235 ml heavy cream, divided into two 117.5 ml portions", "75 g coffee beans", "50 g sugar", "3 egg yolks", "2 g salt"]}],
+    "method": [{"title": "Instructions", "steps": ["Combine the milk, 117.5 ml cream, sugar, salt, and coffee beans. Heat almost to boiling, cover, and steep for 45 minutes.", "Put the remaining 117.5 ml cream in a bowl set over an ice bath.", "Reheat the coffee mixture to almost boiling. Slowly whisk a little into the egg yolks, then return everything to the pot.", "Stir until slightly thickened.", "Strain out the coffee beans, pouring the custard into the cream over the ice bath.", "Churn in an ice cream machine."]}],
+    "notes": ["Chilling and churning times are not specified in the original notes; follow your machine’s instructions."],
+    "servings": 6, "servingLabel": "1 portion · ⅙ batch", "assumptions": ["Assumed yield: 6 equal portions.", "Uses whole milk (235 ml ≈ 242 g), heavy whipping cream (235 ml ≈ 233 g), and 3 yolks = 51 g. Coffee beans are strained out; their small extracted nutrient contribution is excluded."],
+    "nutritionInputs": [["milk",242],["cream",233],["sugar",50],["yolk",51]]
+  },
+{
+  "id": "kaiserschmarrn",
+  "title": "Kaiserschmarrn",
+  "category": "Sweet treats",
+  "source": "kaiserschmarrn.md",
+  "photo": null,
+  "time": "Cooking time not supplied",
+  "accent": "ochre",
+  "description": "Austrian shredded pancake with raisins, served with cranberry compote or jam. A two-egg recipe.",
+  "ingredients": [
+    {
+      "title": "Pancake",
+      "items": [
+        "267 ml milk",
+        "2 eggs",
+        "160 g semi-coarse wheat flour",
+        "2 tsp sugar",
+        "4 tsp raisins",
+        "⅔ tsp rum",
+        "33 g butter"
+      ]
+    },
+    {
+      "title": "To cook and serve",
+      "items": [
+        "Oil for frying (amount not specified)",
+        "Cranberry compote or jam of your choice (amount not specified)",
+        "Pine nuts or walnuts (optional; amount not specified)"
+      ]
+    }
+  ],
+  "method": [],
+  "notes": [
+    "The supplied recipe card gives ingredients and estimated nutrition, but no cooking instructions."
+  ],
+  "servings": 2,
+  "servingLabel": "½ recipe · 1 of 2 portions",
+  "assumptions": [
+    "Nutrition estimates are copied from the supplied recipe card: one serving is half of the two-egg recipe.",
+    "Assumes whole milk, 2 large eggs, and about 13 g raisins. Excludes frying oil, jam, nuts, and icing sugar.",
+    "The supplied card rounds half-recipe carbs to 72 g and full-recipe carbs to 145 g; those printed values are preserved."
+  ],
+  "providedCard": "public/photos/kaiserschmarrn-source.png",
+  "nutritionRounding": 1,
+  "providedNutrition": {
+    "perServing": {
+      "calories": 590,
+      "protein": 20,
+      "carbs": 72,
+      "fat": 24
+    },
+    "batch": {
+      "calories": 1180,
+      "protein": 40,
+      "carbs": 145,
+      "fat": 48
+    }
+  }
+}
+]

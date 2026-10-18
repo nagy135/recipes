@@ -1,0 +1,22 @@
+{
+  "name": "recipe-shelf",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "node scripts/check-recipes.mjs && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "nutrition": "node scripts/nutrition.mjs",
+    "card-prompts": "node scripts/card-prompts.mjs",
+    "deploy:nixpi": "bash scripts/deploy-nixpi.sh"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4"
+  }
+}

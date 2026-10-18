@@ -1,4 +1,4 @@
-![tartalettes](./images/tartalettes.jpeg)
+![tartalettes](../public/photos/tartalettes.jpeg)
 # Tart
 ## Ingredients
 - 75g butter

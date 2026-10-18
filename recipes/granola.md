@@ -1,4 +1,4 @@
-![granola](./images/granola.jpeg)
+![granola](../public/photos/granola.jpeg)
 
 # Granola
 

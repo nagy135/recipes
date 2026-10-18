@@ -1,4 +1,4 @@
-![pizza](./images/pizza.jpeg)
+![pizza](../public/photos/pizza.jpeg)
 
 # Poolish
 
