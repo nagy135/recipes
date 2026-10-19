@@ -360,5 +360,15 @@
       "carbs": 80,
       "fat": 0
     }
+  },
+  "skyr": {
+    "name": "Arla Skyr Natural",
+    "source": "https://www.arlafoods.co.uk/brands/arla-skyr/natural-450g/",
+    "per100g": {
+      "calories": 61,
+      "protein": 10,
+      "carbs": 4,
+      "fat": 0.2
+    }
   }
 }

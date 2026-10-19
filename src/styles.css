@@ -133,6 +133,7 @@ h2 { font-family: 'Libre Caslon Display', Georgia, serif; font-weight: 400; }
 h3 { font-size: 15px; font-weight: 600; margin: 0 0 15px; }
 .nutrition h3 { font-size: 13px; margin: 0; }
 .portion-toggle { background: var(--nutrition-control); }
+.nutrition-variants { margin-top: 14px; }
 .portion-toggle button { font-size: 10px; padding: 6px 8px; background: transparent; border-radius: 3px; }
 .portion-label { font-size: 11px; color: var(--nutrition-text); margin: 8px 0 20px; }
 .nutrition-values { display: grid; grid-template-columns: repeat(4, 1fr); margin: 0 0 20px; }

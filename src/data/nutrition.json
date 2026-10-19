@@ -180,5 +180,49 @@
       "carbs": 145,
       "fat": 48
     }
+  },
+  "protein-pancakes": {
+    "perServing": {
+      "calories": 373,
+      "protein": 31.6,
+      "carbs": 44,
+      "fat": 7.9
+    },
+    "batch": {
+      "calories": 746,
+      "protein": 63.3,
+      "carbs": 87.9,
+      "fat": 15.7
+    },
+    "variants": {
+      "regular-flour": {
+        "perServing": {
+          "calories": 373,
+          "protein": 31.6,
+          "carbs": 44,
+          "fat": 7.9
+        },
+        "batch": {
+          "calories": 746,
+          "protein": 63.3,
+          "carbs": 87.9,
+          "fat": 15.7
+        }
+      },
+      "oats": {
+        "perServing": {
+          "calories": 381,
+          "protein": 33.1,
+          "carbs": 39.7,
+          "fat": 10.6
+        },
+        "batch": {
+          "calories": 761,
+          "protein": 66.1,
+          "carbs": 79.3,
+          "fat": 21.3
+        }
+      }
+    }
   }
 }

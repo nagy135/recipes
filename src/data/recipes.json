@@ -158,5 +158,129 @@
       "fat": 48
     }
   }
+},
+{
+  "id": "protein-pancakes",
+  "title": "Protein pancakes",
+  "category": "Breakfast & snacks",
+  "source": "protein-pancakes.md",
+  "photo": null,
+  "time": "Cooking time not supplied",
+  "accent": "ochre",
+  "description": "Protein pancakes with skyr, in two versions: regular flour or finely ground rolled oats. Each version serves 2; choose one ingredient list.",
+  "ingredients": [
+    {
+      "title": "With regular flour · serves 2",
+      "items": [
+        "100 g plain / all-purpose flour",
+        "30 g vanilla or unflavoured protein powder",
+        "1 tsp baking powder",
+        "Pinch of salt",
+        "2 eggs",
+        "100 g plain skyr",
+        "120 ml milk, plus extra if needed",
+        "½ tsp vanilla extract (optional)",
+        "Butter or oil for the pan"
+      ]
+    },
+    {
+      "title": "With oats · serves 2",
+      "items": [
+        "100 g rolled oats (finely ground)",
+        "30 g vanilla or unflavoured protein powder",
+        "1 tsp baking powder",
+        "Pinch of salt",
+        "2 eggs",
+        "100 g plain skyr",
+        "120–150 ml milk, as needed",
+        "½ tsp vanilla extract (optional)",
+        "Butter or oil for the pan"
+      ]
+    }
+  ],
+  "method": [],
+  "notes": [
+    "These are two alternative recipes, each serving 2. Use one ingredient list, not both together.",
+    "The supplied recipe card gives ingredients, but no cooking instructions or nutrition values. Nutrition below is calculated separately."
+  ],
+  "servings": 2,
+  "servingLabel": "½ of the selected variant · 1 of 2 portions",
+  "assumptions": [
+    "Each variant makes 2 servings; the nutrition selector switches between regular flour and oats.",
+    "Both estimates use 2 large eggs = 100 g, 1 tsp baking powder = 4 g, and 120 ml whole milk ≈ 124 g. Extra milk, optional vanilla, pan butter or oil, and toppings are excluded.",
+    "Protein powder is estimated using the existing USDA soy protein isolate profile; actual vanilla or unflavoured powders vary by brand.",
+    "Plain skyr uses the Arla Skyr Natural label (61 kcal, 10 g protein, 4 g carbohydrate, and 0.2 g fat per 100 g)."
+  ],
+  "providedCard": "public/photos/protein-pancakes-source.png",
+  "cardWidth": 1536,
+  "cardHeight": 1024,
+  "nutritionVariants": [
+    {
+      "id": "regular-flour",
+      "title": "With regular flour",
+      "nutritionInputs": [
+        [
+          "flour",
+          100
+        ],
+        [
+          "soyProtein",
+          30
+        ],
+        [
+          "bakingPowder",
+          4
+        ],
+        [
+          "egg",
+          100
+        ],
+        [
+          "skyr",
+          100
+        ],
+        [
+          "milk",
+          124
+        ]
+      ]
+    },
+    {
+      "id": "oats",
+      "title": "With oats",
+      "nutritionInputs": [
+        [
+          "oats",
+          100
+        ],
+        [
+          "soyProtein",
+          30
+        ],
+        [
+          "bakingPowder",
+          4
+        ],
+        [
+          "egg",
+          100
+        ],
+        [
+          "skyr",
+          100
+        ],
+        [
+          "milk",
+          124
+        ]
+      ]
+    }
+  ],
+  "nutritionSources": [
+    {
+      "title": "Arla Skyr Natural nutrition label",
+      "url": "https://www.arlafoods.co.uk/brands/arla-skyr/natural-450g/"
+    }
+  ]
 }
 ]

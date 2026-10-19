@@ -23,7 +23,8 @@ function Icon({ name, size = 20, ...props }) {
 
 function Nutrition({ recipe }) {
   const [batch, setBatch] = useState(false);
-  const values = recipe.nutrition[batch ? 'batch' : 'perServing'];
+  const [variant, setVariant] = useState(recipe.nutritionVariants?.[0].id);
+  const values = (recipe.nutrition.variants?.[variant] ?? recipe.nutrition)[batch ? 'batch' : 'perServing'];
   return <section className="nutrition" aria-labelledby="nutrition-title">
     <div className="nutrition-heading">
       <h3 id="nutrition-title">Estimated nutrition</h3>
@@ -32,6 +33,7 @@ function Nutrition({ recipe }) {
         <button aria-pressed={batch} onClick={() => setBatch(true)}>Whole batch</button>
       </div>
     </div>
+    {recipe.nutritionVariants && <div className="portion-toggle nutrition-variants" role="group" aria-label="Recipe variant">{recipe.nutritionVariants.map(item => <button key={item.id} aria-pressed={variant === item.id} onClick={() => setVariant(item.id)}>{item.title}</button>)}</div>}
     <p className="portion-label">{batch ? `Whole recipe · ${recipe.servings} ${recipe.servings === 1 ? 'serving' : 'servings'}` : recipe.servingLabel}</p>
     <dl className="nutrition-values">
       {[['calories', 'Calories', 'kcal'], ['protein', 'Protein', 'g'], ['carbs', 'Carbs', 'g'], ['fat', 'Fat', 'g']].map(([key, label, unit]) => <div key={key}><dd>{values[key]}<span>{unit}</span></dd><dt>{label}</dt></div>)}
@@ -40,6 +42,7 @@ function Nutrition({ recipe }) {
       <summary>{recipe.providedNutrition ? 'Nutrition source and assumptions' : 'How this estimate was calculated'}</summary>
       <ul>{recipe.assumptions.map(note => <li key={note}>{note}</li>)}</ul>
       {recipe.providedNutrition ? <p>Estimates transcribed from the supplied recipe card, including its rounding. Values vary with ingredients, toppings, and portion size.</p> : <p>Calculated from ingredient weights using <a href="https://fdc.nal.usda.gov/download-datasets/" target="_blank" rel="noreferrer">USDA FoodData Central, SR Legacy</a>{recipe.id === 'doctors-bread' && <> and the <a href="https://www.nowfoods.com/products/supplements/psyllium-husks-whole" target="_blank" rel="noreferrer">NOW psyllium husk label</a></>}. Carbohydrate includes fibre. Values vary with brands, filling, toppings, and portion size.</p>}
+      {recipe.nutritionSources?.map(source => <p key={source.url}>Additional ingredient source: <a href={source.url} target="_blank" rel="noreferrer">{source.title}</a>.</p>)}
     </details>
   </section>;
 }
@@ -69,7 +72,7 @@ function RecipeDialog({ recipe, initialView, onClose }) {
       <div className="dialog-content">
         {view === 'image' ? <>
           <h2 id="dialog-title" className="sr-only">{recipe.title} recipe card</h2>
-          <img className="full-card" src={recipe.image} alt={`${recipe.title}: image recipe with ingredients${recipe.method.length ? ', instructions' : ''}, and estimated nutrition. Use Text recipe for an accessible version.`} />
+          <img className="full-card" src={recipe.image} alt={`${recipe.title}: ${recipe.providedCard ? 'supplied recipe card' : 'image recipe with ingredients, instructions, and estimated nutrition'}. Use Text recipe for an accessible version.`} />
           <div className="image-actions"><a href={recipe.image} target="_blank" rel="noreferrer">Open full size <Icon name="expand" size={15} /></a><a href={recipe.image} download={`${recipe.id}-recipe.jpg`}>Save card <Icon name="download" size={16} /></a></div>
         </> : <div className="text-recipe">
           <span className="eyebrow">{recipe.category}</span>
@@ -92,7 +95,7 @@ function RecipeDialog({ recipe, initialView, onClose }) {
 function RecipeCard({ recipe, index, onOpen }) {
   return <article className={`recipe-card accent-${recipe.accent}`} aria-label={recipe.title} style={{ '--card-index': index }}>
     <button className="card-image-button" aria-label={`View ${recipe.title} image card`} onClick={() => onOpen(recipe, 'image')}>
-      <img src={recipe.thumbnail} srcSet={`${recipe.thumbnail} 520w, ${recipe.image} 1024w`} sizes="(max-width: 600px) calc(100vw - 40px), (max-width: 960px) 45vw, 30vw" width="1024" height="1536" loading={index < 3 ? 'eager' : 'lazy'} decoding="async" alt={`${recipe.title} recipe card with ingredients${recipe.method.length ? ', method' : ''}, calories, protein, carbs, and fat`} />
+      <img src={recipe.thumbnail} srcSet={`${recipe.thumbnail} 520w, ${recipe.image} ${recipe.cardWidth ?? 1024}w`} sizes="(max-width: 600px) calc(100vw - 40px), (max-width: 960px) 45vw, 30vw" width={recipe.cardWidth ?? 1024} height={recipe.cardHeight ?? 1536} loading={index < 3 ? 'eager' : 'lazy'} decoding="async" alt={`${recipe.title}: ${recipe.providedCard ? 'supplied recipe card' : 'recipe card with ingredients, method, calories, protein, carbs, and fat'}`} />
       <span className="image-hover"><Icon name="expand" size={17} />Take a closer look</span>
     </button>
     <button className="description-button" aria-label={`Description and instructions for ${recipe.title}`} onClick={() => onOpen(recipe, 'text')}><span><Icon name="text" size={16} />Description & instructions</span><Icon name="arrow" size={18} /></button>

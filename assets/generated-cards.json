@@ -139,5 +139,12 @@
     "thumbnail": "public/recipe-cards/kaiserschmarrn-small.jpg",
     "providedCard": "public/photos/kaiserschmarrn-source.png",
     "contentHash": "ae57023dca36538f101ba56f101d143cec7d05ceb98fce0a75e788d54bf735dc"
+  },
+  "protein-pancakes": {
+    "providedBy": "user",
+    "card": "public/recipe-cards/protein-pancakes.jpg",
+    "thumbnail": "public/recipe-cards/protein-pancakes-small.jpg",
+    "providedCard": "public/photos/protein-pancakes-source.png",
+    "contentHash": "699ad6b962ba5837ce0f53678b0986b6cfbf0f46572bfe919ce2ba29f90eb2f4"
   }
 }

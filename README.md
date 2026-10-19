@@ -17,6 +17,8 @@ Vite prints the local URL. `npm run build` validates the collection and creates 
 
 All 11 original Markdown files are preserved in `recipes/`, with their photo links updated. Both flavours from `icecream.md` have their own cards. The supplied Kaiserschmarrn card brings the collection to 13 recipes, with a text transcription in `recipes/kaiserschmarrn.md`. The seven original photos and the unmodified supplied card are in `public/photos/`. Four recipes had no source photo; their card photography was generated from the ingredient descriptions.
 
+The supplied protein pancake card is the 14th record, with both regular-flour and oat variants together. Each variant serves 2. The original image is preserved in `public/photos/protein-pancakes-source.png`, with its transcription in `recipes/protein-pancakes.md`. Neither cooking instructions nor nutrition were supplied on that card.
+
 - `src/data/recipes.json` — recipe text, ingredient quantities, serving sizes, and nutrition assumptions.
 - `src/data/ingredient-nutrition.json` — nutrient profiles per 100 g, with individual food IDs and source URLs.
 - `src/data/nutrition.json` — calculated per-serving and whole-batch calories, protein, carbohydrate, and fat.
@@ -30,6 +32,8 @@ All 11 original Markdown files are preserved in `recipes/`, with their photo lin
 Values are **estimates**, calculated from ingredient weights using [USDA FoodData Central SR Legacy](https://fdc.nal.usda.gov/download-datasets/) and the [NOW Foods whole psyllium husk label](https://www.nowfoods.com/products/supplements/psyllium-husks-whole). Carbohydrate includes fibre. Energy is taken from the ingredient database, rather than reconstructed using 4/4/9 factors.
 
 Kaiserschmarrn preserves the supplied card's estimates and rounding: 1,180 kcal per full recipe, or 590 kcal per half recipe. Its values live in `providedNutrition` and are retained by `npm run nutrition`. Its supplied image has no cooking method; this is explicitly marked in the text view.
+
+Protein pancakes use `nutritionVariants` to calculate separate regular-flour and oat estimates within one record. The text view lets you select either variant and toggle between a serving and the whole two-serving batch. Both estimates assume 120 ml whole milk, USDA soy protein isolate as a protein-powder proxy, and the [Arla Skyr Natural label](https://www.arlafoods.co.uk/brands/arla-skyr/natural-450g/). Extra milk, optional vanilla, pan fat, and toppings are excluded. These assumptions are shown in the recipe; the supplied image remains unchanged.
 
 Yield and unspecified ingredient amounts are explicitly assumed and listed on the card and in each text recipe's nutrition notes. Pizza nutrition covers dough only; steamed bun nutrition covers dough without filling or extra steamer oil. Tartlet nutrition assumes five tartlets using all three components. Milk/cream volume-to-weight conversions and other substitutions are recorded per recipe. Different brands, portion sizes, and toppings change the results.
 
