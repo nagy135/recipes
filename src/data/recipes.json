@@ -212,8 +212,8 @@
     "Plain skyr uses the Arla Skyr Natural label (61 kcal, 10 g protein, 4 g carbohydrate, and 0.2 g fat per 100 g)."
   ],
   "providedCard": "public/photos/protein-pancakes-source.png",
-  "cardWidth": 1536,
-  "cardHeight": 1024,
+  "cardWidth": 1024,
+  "cardHeight": 1536,
   "nutritionVariants": [
     {
       "id": "regular-flour",

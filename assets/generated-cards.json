@@ -145,6 +145,11 @@
     "card": "public/recipe-cards/protein-pancakes.jpg",
     "thumbnail": "public/recipe-cards/protein-pancakes-small.jpg",
     "providedCard": "public/photos/protein-pancakes-source.png",
-    "contentHash": "699ad6b962ba5837ce0f53678b0986b6cfbf0f46572bfe919ce2ba29f90eb2f4"
+    "contentHash": "d546ff8d41ced40801a3bc164557ca36810f8a7e3fda3f433a752b1e1f7b27e5",
+    "generatedWith": "built-in image_gen (portrait reflow of supplied card)",
+    "generatedOn": "2026-10-19",
+    "generatorOutput": "exec-e968ff73-9c32-46c1-ad6e-147111f25379.png",
+    "promptFile": "assets/protein-pancakes-portrait-prompt.txt",
+    "promptHash": "7748cf3ef0fe69f3d1c9df99296be039462fe86e175047e13837eaa5a91a76f8"
   }
 }

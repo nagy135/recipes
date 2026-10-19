@@ -1,0 +1,25 @@
+Use case: compositing. Asset type: finished photographic recipe card for an existing cookbook gallery. Image 1 is the EDIT TARGET: the supplied landscape Protein Pancakes card. Image 2 is only an ASPECT RATIO reference: other gallery cards are portrait 2:3. Reformat Image 1 into a single VERTICAL PORTRAIT 2:3 card, ideally 1024 × 1536. Preserve its warm ivory background, dark brown serif headings, black sans-serif body, pancake photography with berries and syrup, and ALL original ingredient wording and amounts. Reflow the two alternative recipes as two stacked sections, flour above oats, with one shallow food photo in each section and a clearly typeset full-width ingredient list below each. Efficient typography and photo heights so all content fits legibly with good margins and no crop. Keep title PROTEIN PANCAKES at top and subtitle Each recipe serves 2. Do not stretch, rotate, crop away content, or add blank padding around the existing landscape composition. Actually recompose into a portrait recipe card. Do not add nutrition, cooking instructions, extra ingredients, branding, or other text. Do not use focaccia or anything pictured in image 2. All text verbatim: 
+PROTEIN PANCAKES
+Each recipe serves 2
+WITH REGULAR FLOUR
+INGREDIENTS
+• 100 g plain / all-purpose flour
+• 30 g vanilla or unflavoured protein powder
+• 1 tsp baking powder
+• Pinch of salt
+• 2 eggs
+• 100 g plain skyr
+• 120 ml milk, plus extra if needed
+• ½ tsp vanilla extract (optional)
+• Butter or oil for the pan
+WITH OATS
+INGREDIENTS
+• 100 g rolled oats (finely ground)
+• 30 g vanilla or unflavoured protein powder
+• 1 tsp baking powder
+• Pinch of salt
+• 2 eggs
+• 100 g plain skyr
+• 120–150 ml milk, as needed
+• ½ tsp vanilla extract (optional)
+• Butter or oil for the pan
